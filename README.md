@@ -1,7 +1,7 @@
 # Tableau-Homework---Citi-Bike-Analytics
 # CitiBike Covid Participation
 
-Initially, I had set out to research citibike data pre, during, and post Covid for the month of June. It appears that they changed their data set, so I could not compile all the data I wished to research. I was able to review the data for the years 2019 & 2020. I used Jupyter Notebook to import and combine data from 2019 & 2020. I then converted the gender column from 0,1 & 2 to unknown, male and female. After loading the data into tableau, I made the following discoveries.
+Initially, I had set out to research citibike data pre, during, and post Covid for the month of June. It appears that they changed their data set, so I could not compile all the data I wished to research. I was able to review the June data for the years 2019 & 2020. I used Jupyter Notebook to import and combine data from 2019 & 2020. I then converted the gender column from 0,1 & 2 to unknown, male and female. After loading the data into tableau, I made the following discoveries.
 
 It appears that the user age data is flawed, or New York should now top the list of the world's oldest, healthiest people.
 
