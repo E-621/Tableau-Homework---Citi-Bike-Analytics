@@ -18,3 +18,6 @@ The data suggest that users born before 1990 declined during Covid, and users bo
 Users subscribing to the citibike serve decreased during Covid, suggesting that users believed this to be a short-lived phenomenon.
 
 ![image](https://user-images.githubusercontent.com/79013025/128271736-fc70e63b-8321-44fb-b20e-f7537662a038.png)
+
+
+*Note source data files too large to upload to github
